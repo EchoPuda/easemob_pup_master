@@ -1,0 +1,35 @@
+PODS:
+  - easemob_plu (0.0.1):
+    - Flutter
+    - HyphenateLite
+  - Flutter (1.0.0)
+  - HyphenateLite (3.5.5)
+  - image_picker (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - easemob_plu (from `.symlinks/plugins/easemob_plu/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HyphenateLite
+
+EXTERNAL SOURCES:
+  easemob_plu:
+    :path: ".symlinks/plugins/easemob_plu/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+
+SPEC CHECKSUMS:
+  easemob_plu: d8345f4d02a29a84640eaf42e376f26f3052070b
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  HyphenateLite: c3801b966857db275127d3ed2bf899cd1c6ad4f1
+  image_picker: 16e5fec1fbc87fd3b297c53e4048521eaf17cd06
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.7.0.beta.3
